@@ -521,6 +521,7 @@ body {
 nav a {
 	position: relative;
 	display: inline-block;
+	margin: 2px 4px;
 	outline: none;
 	color: #fff;
 	text-decoration: none;
