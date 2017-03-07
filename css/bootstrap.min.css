@@ -6894,10 +6894,9 @@ button.close {
     padding-bottom: 0px;
     color: #fdfbfb;
     text-align: center;
-    text-shadow: -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #060606;
+    -webkit-text-stroke-width: 0.25px;
+    -webkit-text-stroke-color:  #000;
+    text-shadow: 1px 1px 1px #000;
 }
 
 .carousel-caption .btn {
@@ -7221,3 +7220,70 @@ button.close {
 }
 
 /*# sourceMappingURL=bootstrap.min.css.map */
+
+@media (min-width: 768px) {
+    .navbar-custom {
+        
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s
+    }
+
+    .navbar-custom .navbar-brand {
+        font-size: 2em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    
+
+    .navbar-custom.affix .navbar-brand {
+        font-size: .8em
+    }
+}
+
+@media (min-width: 320px) {
+    .navbar-custom {
+        font-size: 1.4em;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s
+    }
+
+    .navbar-custom .navbar-brand {
+        font-size: 0.8em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+   
+
+    .navbar-custom.affix .navbar-brand {
+        font-size: .8em
+    }
+}
+
+@media (max-width: 320px) {
+    .navbar-custom {
+        font-size: 1.1em;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s
+    }
+
+    .navbar-custom .navbar-brand {
+        font-size: 0.8em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+   
+
+    .navbar-custom.affix .navbar-brand {
+        font-size: .8em
+    }
+}
+

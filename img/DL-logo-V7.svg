@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="60.445px" height="45.729px" viewBox="1325.874 941.846 60.445 45.729"
+	 enable-background="new 1325.874 941.846 60.445 45.729" xml:space="preserve">
+<g id="Layer_1_1_" display="none">
+</g>
+<g id="Layer_1_copy" display="none">
+</g>
+<g id="Layer_2">
+	<polygon display="none" fill="#FCFCFC" fill-opacity="0" points="1356.455,962.01 1356.455,976.263 1372.493,970.026 	"/>
+	<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M1370.866,972.057"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1263.3044" y1="667.1826" x2="1263.3044" y2="667.1826" gradientTransform="matrix(1 0 0 -1 118.1401 1637.7812)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path display="none" fill="none" stroke="url(#SVGID_1_)" stroke-width="2" stroke-miterlimit="10" d="M1381.444,970.599"/>
+	
+		<line display="none" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1352.252" y1="959.908" x2="1372.493" y2="970.026"/>
+</g>
+<path fill="none" stroke="#FF6633" stroke-width="3" stroke-miterlimit="10" d="M1377.65,975.732c-0.637,0-5.551,0-9.413,0
+	c-3.078,0-4.752-0.952-4.752-5.43c0-5.729,0-15.937,0-19.883c0-0.932-0.389-4.163-4.081-4.163c-3.633,0-4.104,3.2-4.095,4.145
+	c-0.02,4.083-0.006,21.32-0.009,28.302c-0.003,3.319,3.187,3.845,4.517,3.845c5.628,0,4.782,0,9.745,0c5.851,0,7.255,0,8.064,0
+	c2.332,0,3.6-1.862,3.55-3.438C1381.125,977.48,1379.896,975.732,1377.65,975.732z"/>
+<g id="Layer_7">
+	<g id="Layer_8">
+	</g>
+	<g id="Layer_6">
+		<path fill="#FF6633" d="M1330.348,946.439c-0.016,4.309-0.033,33.592,0,35.879c-0.019,4.576,29.278,0.552,29.278-17.015
+			C1359.627,947.616,1330.33,941.508,1330.348,946.439z M1335.94,975.988c0.027-2.057,0.01-20.39,0-22.696
+			c-0.006-2.305,17.378,2.304,17.776,11.714C1354.105,974.215,1335.915,978.045,1335.94,975.988z"/>
+		
+			<text transform="matrix(1 0 0 1 1345.3875 966.7129)" display="none" fill="none" stroke="#FFFFFF" stroke-width="80" stroke-miterlimit="10" enable-background="new    " font-family="'Skia-Regular'" font-size="5.1349">AVID</text>
+		
+			<text transform="matrix(1 0 0 1 1374.6521 967.2578)" display="none" fill="none" stroke="#FFFFFF" stroke-width="80" stroke-miterlimit="10" enable-background="new    " font-family="'Skia-Regular'" font-size="5.1349">EEN</text>
+	</g>
+</g>
+</svg>
