@@ -721,7 +721,7 @@ to {
     -webkit-animation: Animate-XML 4s;
     -moz-animation: Animate-XML 4s;
     -o-animation: Animate-XML 4s;
-    width: 65%;
+    width: 70%;
     height: 40px;
     position: absolute;
     background-color: #345995;
@@ -731,25 +731,25 @@ to {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 70%}
 }@-webkit-keyframes Animate-XML {
     from {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 70%}
 }@-moz-keyframes Animate-XML {
     from {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 70%}
 }@-o-keyframes Animate-XML {
     from {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 70%}
 }
 #codeconC {
     animation: Animate-C 4s;
